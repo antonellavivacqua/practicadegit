@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-	printf("hola github\n");
+	printf("hola github editado desde el remoto\n");
 	return 0;
 }
